@@ -91,4 +91,18 @@ Pertes Faible Normal Abondante Très abondante <br>
               </div>
             </div>
 
+            <footer>
+              <p>
+                  Restons en contact... <br>
+                  entrez votre adresse e-mail 
+                  <button type="button" class="btn btn-light">Confirmez</button>
+              Personnaliser mon glow planner ? <br>
+              <button type="button" class="btn btn-light">J'y vais</button>
+              Acceuil <br>
+              Qui sommes nous ? <br>
+              Nous contacter <br>
+              Termes et conditions <br>
+              </p>
+          </footer>
+
             

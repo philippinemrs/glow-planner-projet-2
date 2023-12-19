@@ -1,0 +1,96 @@
+body {
+    background-color: #5B7FBD; 
+   }
+   
+   body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+
+    header {
+        background-color: #5B7FBD;
+        padding: 10px;
+        text-align: center;
+    }
+
+    nav {
+        display: flex;
+        justify-content: center;
+        background-color: #5B7FBD;
+    }
+
+    nav a {
+        color: white;
+        text-decoration: none;
+        padding: 14px 16px;
+        text-align: center;
+    }
+
+    nav a:hover {
+        background-color: #fff;
+        color : #5B7FBD; 
+    }
+
+    header {
+        background-color: #5B7FBD;
+        padding: 10px;
+        text-align: center;
+
+        /* Ajout de la propriété flex */
+        display: flex;
+        align-items: center; /* Alignement vertical au centre */
+    }
+
+    .logo {
+        max-width: 100px;
+        margin-right: 20px;
+    } 
+
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+      }
+      
+      form {
+        max-width: 400px;
+        margin: auto;
+      }
+      
+      label {
+        display: block;
+        margin-bottom: 8px;
+      }
+      
+      input,
+      textarea {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 16px;
+        box-sizing: border-box;
+      }
+      
+      .half-width {
+        width: calc(50% - 4px); /* 4px de marge entre les champs "Nom" et "Prénom" */
+        display: inline-block;
+        box-sizing: border-box;
+      }
+      
+      .full-width {
+        width: 100%;
+        box-sizing: border-box;
+      }
+      
+      button {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px 15px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      
+      button:hover {
+        background-color: #45a049;
+      }
+      

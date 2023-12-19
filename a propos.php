@@ -17,8 +17,8 @@
     <a href="a propos.html">A propos</a>
     <a href="blog.html">Blog</a>
     <a href="calendrier.html">Calendrier</a>
-    <a href="#">Plannificateur</a>
-    <a href="#">Mon compte</a>
+    <a href="planificateur.html">Plannificateur</a>
+    <a href="mon compte.html">Mon compte</a>
 </nav>
 
 <h1>Aider les femmes et toutes personnes ayant ses règles à faire de sa santé une priorité</h1>

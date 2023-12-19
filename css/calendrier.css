@@ -1,5 +1,5 @@
 body {
-    background-color: #5B7FBD; 
+    background-color: #F4B2C9; 
    }
    
    body {
@@ -9,7 +9,8 @@ body {
     }
 
     header {
-        background-color: #5B7FBD;
+        background-color: #F4B2C9;
+      
         padding: 10px;
         text-align: center;
     }
@@ -17,7 +18,7 @@ body {
     nav {
         display: flex;
         justify-content: center;
-        background-color: #5B7FBD;
+        background-color: #F4B2C9;
     }
 
     nav a {
@@ -29,11 +30,11 @@ body {
 
     nav a:hover {
         background-color: #fff;
-        color : #5B7FBD; 
+        color : #F4B2C9; 
     }
 
     header {
-        background-color: #5B7FBD;
+        background-color: #F4B2C9;
         padding: 10px;
         text-align: center;
 
